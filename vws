@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>VWS</title>
+</head>
+<body>
+<h1>VWS</h1>
+</body>
+<style>
+h1{color:red; font-size:50px;}
+</style>
+</html>
